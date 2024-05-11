@@ -1,0 +1,2726 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.0082563, 5.3599517] },
+      "properties": { "timezone": "Africa/Abidjan" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.1974306, 5.5592846] },
+      "properties": { "timezone": "Africa/Accra" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [38.7524635, 9.0191936] },
+      "properties": { "timezone": "Africa/Addis_Ababa" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [1.659626, 28.033886] },
+      "properties": { "timezone": "Africa/Algiers" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [38.9300394, 15.3317304] },
+      "properties": { "timezone": "Africa/Asmara" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [38.9300394, 15.3317304] },
+      "properties": { "timezone": "Africa/Asmera" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-8.0028892, 12.6392316] },
+      "properties": { "timezone": "Africa/Bamako" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.5827765, 4.362156] },
+      "properties": { "timezone": "Africa/Bangui" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-16.5753186, 13.454375] },
+      "properties": { "timezone": "Africa/Banjul" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [35.0167866, -15.7666707] },
+      "properties": { "timezone": "Africa/Blantyre" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.2812803, -4.2744405] },
+      "properties": { "timezone": "Africa/Brazzaville" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [29.3598782, -3.361378] },
+      "properties": { "timezone": "Africa/Bujumbura" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [31.2357116, 30.0444196] },
+      "properties": { "timezone": "Africa/Cairo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.58984339999999, 33.5731104]
+      },
+      "properties": { "timezone": "Africa/Casablanca" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.3213455, 35.8893874] },
+      "properties": { "timezone": "Africa/Ceuta" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-13.7119312, 9.5090945] },
+      "properties": { "timezone": "Africa/Conakry" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-17.4676861, 14.716677] },
+      "properties": { "timezone": "Africa/Dakar" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.2819353, -6.8158925] },
+      "properties": { "timezone": "Africa/Dar_es_Salaam" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [42.590275, 11.825138] },
+      "properties": { "timezone": "Africa/Djibouti" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.7678687, 4.0510564] },
+      "properties": { "timezone": "Africa/Douala" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-13.1990758, 27.1500384] },
+      "properties": { "timezone": "Africa/El_Aaiun" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-13.2354918, 8.48708029999999]
+      },
+      "properties": { "timezone": "Africa/Freetown" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [25.9077037, -24.6580003] },
+      "properties": { "timezone": "Africa/Gaborone" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [31.0503723, -17.8262928] },
+      "properties": { "timezone": "Africa/Harare" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [28.0337185, -26.205647] },
+      "properties": { "timezone": "Africa/Johannesburg" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.5825253999999, 4.85385659999999]
+      },
+      "properties": { "timezone": "Africa/Juba" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [32.5816313, 0.3151692] },
+      "properties": { "timezone": "Africa/Kampala" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [32.535587, 15.597431] },
+      "properties": { "timezone": "Africa/Khartoum" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [30.0618851, -1.9440727] },
+      "properties": { "timezone": "Africa/Kigali" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.310528, -4.3032527] },
+      "properties": { "timezone": "Africa/Kinshasa" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [3.3792057, 6.5243793] },
+      "properties": { "timezone": "Africa/Lagos" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.44028329999999, 0.4077972]
+      },
+      "properties": { "timezone": "Africa/Libreville" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.2196502, 6.12955769999999]
+      },
+      "properties": { "timezone": "Africa/Lome" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.2301756, -8.8146556] },
+      "properties": { "timezone": "Africa/Luanda" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [27.5026174, -11.6876026] },
+      "properties": { "timezone": "Africa/Lubumbashi" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [28.2773267, -15.4154677] },
+      "properties": { "timezone": "Africa/Lusaka" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.7821344, 3.7549606] },
+      "properties": { "timezone": "Africa/Malabo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [32.5731746, -25.969248] },
+      "properties": { "timezone": "Africa/Maputo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [27.4869229, -29.3150767] },
+      "properties": { "timezone": "Africa/Maseru" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [31.1441558, -26.3263561] },
+      "properties": { "timezone": "Africa/Mbabane" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [45.3379067, 2.037148] },
+      "properties": { "timezone": "Africa/Mogadishu" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-10.8073698, 6.3156068] },
+      "properties": { "timezone": "Africa/Monrovia" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [36.8219462, -1.2920659] },
+      "properties": { "timezone": "Africa/Nairobi" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.0502875, 12.1191352] },
+      "properties": { "timezone": "Africa/Ndjamena" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1253854, 13.5115963] },
+      "properties": { "timezone": "Africa/Niamey" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-15.9582372, 18.0735299] },
+      "properties": { "timezone": "Africa/Nouakchott" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.5196603, 12.3714277] },
+      "properties": { "timezone": "Africa/Ouagadougou" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.6203212, 6.47862379999999]
+      },
+      "properties": { "timezone": "Africa/Porto-Novo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.61308099999999, 0.18636]
+      },
+      "properties": { "timezone": "Africa/Sao_Tome" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.0025615, 16.7665887] },
+      "properties": { "timezone": "Africa/Timbuktu" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.187186, 32.8877109] },
+      "properties": { "timezone": "Africa/Tripoli" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.1831972, 36.7994568] },
+      "properties": { "timezone": "Africa/Tunis" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.0842147, -22.5649344] },
+      "properties": { "timezone": "Africa/Windhoek" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-176.6385354, 51.8667982]
+      },
+      "properties": { "timezone": "America/Adak" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.8996785, 61.2175758]
+      },
+      "properties": { "timezone": "America/Anchorage" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-63.0686149999999, 18.220554]
+      },
+      "properties": { "timezone": "America/Anguilla" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-61.796428, 17.060816] },
+      "properties": { "timezone": "America/Antigua" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.2094801, -7.19156329999999]
+      },
+      "properties": { "timezone": "America/Araguaina" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3815591, -34.6036844]
+      },
+      "properties": { "timezone": "America/Argentina/Buenos_Aires" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-65.7795441, -28.469581] },
+      "properties": { "timezone": "America/Argentina/Catamarca" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.4679793999999, -45.7901229]
+      },
+      "properties": { "timezone": "America/Argentina/ComodRivadavia" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.1887761, -31.4200832999999]
+      },
+      "properties": { "timezone": "America/Argentina/Cordoba" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.2994767, -24.1857864]
+      },
+      "properties": { "timezone": "America/Argentina/Jujuy" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.9988011, -29.9001725]
+      },
+      "properties": { "timezone": "America/Argentina/La_Rioja" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.8458386, -32.8894587]
+      },
+      "properties": { "timezone": "America/Argentina/Mendoza" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.2168291, -51.6230485]
+      },
+      "properties": { "timezone": "America/Argentina/Rio_Gallegos" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.4231976, -24.7821269]
+      },
+      "properties": { "timezone": "America/Argentina/Salta" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.5385941, -31.5351074]
+      },
+      "properties": { "timezone": "America/Argentina/San_Juan" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.2367172, -33.8769018]
+      },
+      "properties": { "timezone": "America/Argentina/San_Luis" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.2175903, -26.8082848]
+      },
+      "properties": { "timezone": "America/Argentina/Tucuman" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.3029511, -54.8019121]
+      },
+      "properties": { "timezone": "America/Argentina/Ushuaia" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-69.968338, 12.52111] },
+      "properties": { "timezone": "America/Aruba" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.5759259999999, -25.2637399]
+      },
+      "properties": { "timezone": "America/Asuncion" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-91.6218292, 48.7575098] },
+      "properties": { "timezone": "America/Atikokan" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-174.2030272, 52.2099851]
+      },
+      "properties": { "timezone": "America/Atka" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-41.2808577, -11.4098737]
+      },
+      "properties": { "timezone": "America/Bahia" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.2480864, 20.8074834]
+      },
+      "properties": { "timezone": "America/Bahia_Banderas" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-59.543198, 13.193887] },
+      "properties": { "timezone": "America/Barbados" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.501299, -1.4563432] },
+      "properties": { "timezone": "America/Belem" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-88.49765, 17.189877] },
+      "properties": { "timezone": "America/Belize" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-57.1313148, 51.4264451] },
+      "properties": { "timezone": "America/Blanc-Sablon" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.072092, 4.71098859999999]
+      },
+      "properties": { "timezone": "America/Bogota" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.2023137, 43.6150186]
+      },
+      "properties": { "timezone": "America/Boise" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-62.9756327, -35.4891431]
+      },
+      "properties": { "timezone": "America/Buenos_Aires" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.0596814, 69.1168641]
+      },
+      "properties": { "timezone": "America/Cambridge_Bay" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-86.8515279, 21.161908] },
+      "properties": { "timezone": "America/Cancun" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.9036062999999, 10.4805937]
+      },
+      "properties": { "timezone": "America/Caracas" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-65.7795441, -28.469581] },
+      "properties": { "timezone": "America/Catamarca" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-81.2546, 19.3133] },
+      "properties": { "timezone": "America/Cayman" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.6297982, 41.8781136] },
+      "properties": { "timezone": "America/Chicago" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.0587908, 28.6433753]
+      },
+      "properties": { "timezone": "America/Chihuahua" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.4245478, 31.6903638]
+      },
+      "properties": { "timezone": "America/Ciudad_Juarez" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.1698969999999, 64.138834]
+      },
+      "properties": { "timezone": "America/Coral_Harbour" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.1887761, -31.4200832999999]
+      },
+      "properties": { "timezone": "America/Cordoba" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.753428, 9.74891699999999]
+      },
+      "properties": { "timezone": "America/Costa_Rica" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.5135079, 49.0955401]
+      },
+      "properties": { "timezone": "America/Creston" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.0925824, -15.5954635]
+      },
+      "properties": { "timezone": "America/Cuiaba" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-68.99002, 12.16957] },
+      "properties": { "timezone": "America/Curacao" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-139.4332999, 64.0639058]
+      },
+      "properties": { "timezone": "America/Dawson" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.2376623, 55.7596274]
+      },
+      "properties": { "timezone": "America/Dawson_Creek" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-104.990251, 39.7392358] },
+      "properties": { "timezone": "America/Denver" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-83.0457538, 42.331427] },
+      "properties": { "timezone": "America/Detroit" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-61.370976, 15.414999] },
+      "properties": { "timezone": "America/Dominica" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-69.8674302, -6.6623703] },
+      "properties": { "timezone": "America/Eirunepe" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-88.89653, 13.794185] },
+      "properties": { "timezone": "America/El_Salvador" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.5963713, 31.8667427]
+      },
+      "properties": { "timezone": "America/Ensenada" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.697236, 58.8050174] },
+      "properties": { "timezone": "America/Fort_Nelson" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-85.1393513, 41.079273] },
+      "properties": { "timezone": "America/Fort_Wayne" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-38.5270134, -3.7327203] },
+      "properties": { "timezone": "America/Fortaleza" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-59.9570044, 46.1969191] },
+      "properties": { "timezone": "America/Glace_Bay" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.3762392999999, 53.3086181]
+      },
+      "properties": { "timezone": "America/Goose_Bay" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1389100999999, 21.4674584]
+      },
+      "properties": { "timezone": "America/Grand_Turk" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.6789999999999, 12.1165]
+      },
+      "properties": { "timezone": "America/Grenada" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.5509999999999, 16.265]
+      },
+      "properties": { "timezone": "America/Guadeloupe" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.2307589999999, 15.783471]
+      },
+      "properties": { "timezone": "America/Guatemala" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.8899031, -2.1891341] },
+      "properties": { "timezone": "America/Guayaquil" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-58.93018, 4.860416] },
+      "properties": { "timezone": "America/Guyana" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-63.5923256, 44.6508608] },
+      "properties": { "timezone": "America/Halifax" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-82.3665956, 23.1135925] },
+      "properties": { "timezone": "America/Havana" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.9559192, 29.0729673]
+      },
+      "properties": { "timezone": "America/Hermosillo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-86.158018, 39.76909] },
+      "properties": { "timezone": "America/Indiana/Indianapolis" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-86.6250139, 41.2958751] },
+      "properties": { "timezone": "America/Indiana/Knox" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.3435916999999, 38.3692275999999]
+      },
+      "properties": { "timezone": "America/Indiana/Marengo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.2786244, 38.4919935] },
+      "properties": { "timezone": "America/Indiana/Petersburg" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.7677662999999, 37.9514447]
+      },
+      "properties": { "timezone": "America/Indiana/Tell_City" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-85.0671725, 38.7478401] },
+      "properties": { "timezone": "America/Indiana/Vevay" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.5286325, 38.677269] },
+      "properties": { "timezone": "America/Indiana/Vincennes" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-86.6030648, 41.0514299] },
+      "properties": { "timezone": "America/Indiana/Winamac" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-86.158018, 39.76909] },
+      "properties": { "timezone": "America/Indianapolis" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-133.7294462, 68.3593674]
+      },
+      "properties": { "timezone": "America/Inuvik" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-68.5169669, 63.746693] },
+      "properties": { "timezone": "America/Iqaluit" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-77.297508, 18.109581] },
+      "properties": { "timezone": "America/Jamaica" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.2994767, -24.1857864]
+      },
+      "properties": { "timezone": "America/Jujuy" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-134.4201306, 58.3004932999999]
+      },
+      "properties": { "timezone": "America/Juneau" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-85.7584557, 38.2526647] },
+      "properties": { "timezone": "America/Kentucky/Louisville" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-84.8491126, 36.8297937] },
+      "properties": { "timezone": "America/Kentucky/Monticello" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-86.6250139, 41.2958751] },
+      "properties": { "timezone": "America/Knox_IN" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-68.2763129, 12.1498095] },
+      "properties": { "timezone": "America/Kralendijk" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.1192935999999, -16.489689]
+      },
+      "properties": { "timezone": "America/La_Paz" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0430885999999, -12.0466888]
+      },
+      "properties": { "timezone": "America/Lima" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.242643, 34.0549076] },
+      "properties": { "timezone": "America/Los_Angeles" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-85.7584557, 38.2526647] },
+      "properties": { "timezone": "America/Louisville" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-63.0471370999999, 18.0513455]
+      },
+      "properties": { "timezone": "America/Lower_Princes" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-35.7352167, -9.6660417] },
+      "properties": { "timezone": "America/Maceio" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-86.2361744, 12.1149926] },
+      "properties": { "timezone": "America/Managua" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-60.0217314, -3.1190275] },
+      "properties": { "timezone": "America/Manaus" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-63.0824656, 18.0675189] },
+      "properties": { "timezone": "America/Marigot" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-61.024174, 14.641528] },
+      "properties": { "timezone": "America/Martinique" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.5027375999999, 25.8690294]
+      },
+      "properties": { "timezone": "America/Matamoros" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.4111425, 23.2494148]
+      },
+      "properties": { "timezone": "America/Mazatlan" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.8458386, -32.8894587]
+      },
+      "properties": { "timezone": "America/Mendoza" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.6142737, 45.1077626999999]
+      },
+      "properties": { "timezone": "America/Menominee" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.5925857, 20.9673702] },
+      "properties": { "timezone": "America/Merida" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-131.5744824, 55.128786] },
+      "properties": { "timezone": "America/Metlakatla" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-99.133208, 19.4326077] },
+      "properties": { "timezone": "America/Mexico_City" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-64.7782313, 46.0878165] },
+      "properties": { "timezone": "America/Moncton" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.3161126, 25.6866142]
+      },
+      "properties": { "timezone": "America/Monterrey" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.1851147, -34.9055016]
+      },
+      "properties": { "timezone": "America/Montevideo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5673918999999, 45.5018869]
+      },
+      "properties": { "timezone": "America/Montreal" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-62.187366, 16.742498] },
+      "properties": { "timezone": "America/Montserrat" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-77.3503609, 25.0443312] },
+      "properties": { "timezone": "America/Nassau" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.0059728, 40.7127753] },
+      "properties": { "timezone": "America/New_York" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-88.2632805, 49.0125155] },
+      "properties": { "timezone": "America/Nipigon" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-165.4086406, 64.5005908999999]
+      },
+      "properties": { "timezone": "America/Nome" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-101.7779462, 47.2633403]
+      },
+      "properties": { "timezone": "America/North_Dakota/Beulah" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-101.299594, 47.1163849] },
+      "properties": { "timezone": "America/North_Dakota/Center" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-101.4112545, 46.844999] },
+      "properties": { "timezone": "America/North_Dakota/New_Salem" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.7372787, 64.1743233999999]
+      },
+      "properties": { "timezone": "America/Nuuk" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.4082908, 29.5458844]
+      },
+      "properties": { "timezone": "America/Ojinaga" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-80.782127, 8.537981] },
+      "properties": { "timezone": "America/Panama" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-65.7012182, 66.1465578] },
+      "properties": { "timezone": "America/Pangnirtung" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-55.2038278, 5.8520355] },
+      "properties": { "timezone": "America/Paramaribo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.0740373, 33.4483771]
+      },
+      "properties": { "timezone": "America/Phoenix" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-72.3074326, 18.594395] },
+      "properties": { "timezone": "America/Port-au-Prince" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-61.5086355, 10.6603435] },
+      "properties": { "timezone": "America/Port_of_Spain" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-67.5411079, -9.5936386] },
+      "properties": { "timezone": "America/Porto_Acre" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-63.8971704, -8.7635576] },
+      "properties": { "timezone": "America/Porto_Velho" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-66.590149, 18.220833] },
+      "properties": { "timezone": "America/Puerto_Rico" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.9078263, -53.1633845]
+      },
+      "properties": { "timezone": "America/Punta_Arenas" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.0275588768865, 48.6807143969658]
+      },
+      "properties": { "timezone": "America/Rainy_River" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-92.0852853, 62.808375] },
+      "properties": { "timezone": "America/Rankin_Inlet" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-34.8828969, -8.0578381] },
+      "properties": { "timezone": "America/Recife" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.6188944, 50.4452112]
+      },
+      "properties": { "timezone": "America/Regina" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-95.712891, 37.09024] },
+      "properties": { "timezone": "America/Resolute" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-67.8098191, -9.9740249] },
+      "properties": { "timezone": "America/Rio_Branco" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.6930415999999, -32.9587022]
+      },
+      "properties": { "timezone": "America/Rosario" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-95.712891, 37.09024] },
+      "properties": { "timezone": "America/Santa_Isabel" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-54.7136192, -2.4406918] },
+      "properties": { "timezone": "America/Santarem" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.6692655, -33.4488897]
+      },
+      "properties": { "timezone": "America/Santiago" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.9360923999999, 18.4626178]
+      },
+      "properties": { "timezone": "America/Santo_Domingo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.6395571, -23.5557714]
+      },
+      "properties": { "timezone": "America/Sao_Paulo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.6870322, 36.7855543]
+      },
+      "properties": { "timezone": "America/Shiprock" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-135.3345513, 57.0532192999999]
+      },
+      "properties": { "timezone": "America/Sitka" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-62.833333, 17.9] },
+      "properties": { "timezone": "America/St_Barthelemy" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-62.782998, 17.357822] },
+      "properties": { "timezone": "America/St_Kitts" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-60.978893, 13.909444] },
+      "properties": { "timezone": "America/St_Lucia" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.3706643, 36.4663185]
+      },
+      "properties": { "timezone": "America/St_Thomas" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-107.7971722, 50.285069] },
+      "properties": { "timezone": "America/Swift_Current" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.1715002, 14.065049] },
+      "properties": { "timezone": "America/Tegucigalpa" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.2476823, 48.3808951] },
+      "properties": { "timezone": "America/Thunder_Bay" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.0382471, 32.5149469]
+      },
+      "properties": { "timezone": "America/Tijuana" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.3831843, 43.653226] },
+      "properties": { "timezone": "America/Toronto" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.6332781999999, 18.4334704]
+      },
+      "properties": { "timezone": "America/Tortola" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.1207375, 49.2827291]
+      },
+      "properties": { "timezone": "America/Vancouver" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-95.712891, 37.09024] },
+      "properties": { "timezone": "America/Virgin" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-135.0522761, 60.7197137]
+      },
+      "properties": { "timezone": "America/Whitehorse" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-97.1385145, 49.8954221] },
+      "properties": { "timezone": "America/Winnipeg" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-139.7268441, 59.5453392999999]
+      },
+      "properties": { "timezone": "America/Yakutat" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.3717886, 62.4539717]
+      },
+      "properties": { "timezone": "America/Yellowknife" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135, -82.8627518999999] },
+      "properties": { "timezone": "Antarctica/Casey" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135, -82.8627518999999] },
+      "properties": { "timezone": "Antarctica/Davis" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135, -82.8627518999999] },
+      "properties": { "timezone": "Antarctica/DumontDUrville" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135, -82.8627518999999] },
+      "properties": { "timezone": "Antarctica/Macquarie" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135, -82.8627518999999] },
+      "properties": { "timezone": "Antarctica/Mawson" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [166.6697692, -77.8455159]
+      },
+      "properties": { "timezone": "Antarctica/McMurdo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135, -82.8627518999999] },
+      "properties": { "timezone": "Antarctica/Palmer" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.1266697, -67.5678406]
+      },
+      "properties": { "timezone": "Antarctica/Rothera" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135, -82.8627518999999] },
+      "properties": { "timezone": "Antarctica/Syowa" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135, -82.8627518999999] },
+      "properties": { "timezone": "Antarctica/Troll" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.83392, -78.4644829] },
+      "properties": { "timezone": "Antarctica/Vostok" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.626723, 78.2231722] },
+      "properties": { "timezone": "Arctic/Longyearbyen" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [48.516388, 15.552727] },
+      "properties": { "timezone": "Asia/Aden" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [76.8828618, 43.2379761] },
+      "properties": { "timezone": "Asia/Almaty" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [35.9105776, 31.9543786] },
+      "properties": { "timezone": "Asia/Amman" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [177.4968266, 64.7336613] },
+      "properties": { "timezone": "Asia/Anadyr" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [51.1974563, 43.6588079] },
+      "properties": { "timezone": "Asia/Aqtau" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [57.166978, 50.2839339] },
+      "properties": { "timezone": "Asia/Aqtobe" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [58.3260628999999, 37.9600766]
+      },
+      "properties": { "timezone": "Asia/Ashgabat" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [58.3260628999999, 37.9600766]
+      },
+      "properties": { "timezone": "Asia/Ashkhabad" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [51.9238373, 47.0944959] },
+      "properties": { "timezone": "Asia/Atyrau" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [44.3660671, 33.315241] },
+      "properties": { "timezone": "Asia/Baghdad" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [50.5577, 26.0667] },
+      "properties": { "timezone": "Asia/Bahrain" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.8670924, 40.4092616999999]
+      },
+      "properties": { "timezone": "Asia/Baku" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [100.5017651, 13.7563309] },
+      "properties": { "timezone": "Asia/Bangkok" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.7835736999999, 53.3497499]
+      },
+      "properties": { "timezone": "Asia/Barnaul" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [35.5017767, 33.8937913] },
+      "properties": { "timezone": "Asia/Beirut" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [114.727669, 4.535277] },
+      "properties": { "timezone": "Asia/Brunei" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [88.3628734, 22.5743545] },
+      "properties": { "timezone": "Asia/Calcutta" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [114.5356247, 48.0951271] },
+      "properties": { "timezone": "Asia/Choibalsan" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.5511838, 29.5656843] },
+      "properties": { "timezone": "Asia/Chongqing" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.5511838, 29.5656843] },
+      "properties": { "timezone": "Asia/Chungking" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [79.861243, 6.9270786] },
+      "properties": { "timezone": "Asia/Colombo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [90.4152376, 23.804093] },
+      "properties": { "timezone": "Asia/Dacca" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [36.2768193, 33.5132192] },
+      "properties": { "timezone": "Asia/Damascus" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [90.4152376, 23.804093] },
+      "properties": { "timezone": "Asia/Dhaka" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.5798233, -8.5563336] },
+      "properties": { "timezone": "Asia/Dili" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [55.2707828, 25.2048493] },
+      "properties": { "timezone": "Asia/Dubai" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [68.7870384, 38.5597722] },
+      "properties": { "timezone": "Asia/Dushanbe" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [34.4668445, 31.5016951] },
+      "properties": { "timezone": "Asia/Gaza" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.6424173, 45.7567307] },
+      "properties": { "timezone": "Asia/Harbin" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [35.099826, 31.532569] },
+      "properties": { "timezone": "Asia/Hebron" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.6296638, 10.8230989] },
+      "properties": { "timezone": "Asia/Ho_Chi_Minh" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [114.1693611, 22.3193039] },
+      "properties": { "timezone": "Asia/Hong_Kong" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [91.634756, 47.9795218] },
+      "properties": { "timezone": "Asia/Hovd" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [104.2890222, 52.2854834] },
+      "properties": { "timezone": "Asia/Irkutsk" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [28.9783589, 41.0082376] },
+      "properties": { "timezone": "Asia/Istanbul" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8229198, -6.1944491] },
+      "properties": { "timezone": "Asia/Jakarta" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [140.6689995, -2.5916025] },
+      "properties": { "timezone": "Asia/Jayapura" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [35.21371, 31.768319] },
+      "properties": { "timezone": "Asia/Jerusalem" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [159.5314398, 56.1327377] },
+      "properties": { "timezone": "Asia/Kamchatka" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [67.0011364, 24.8607343] },
+      "properties": { "timezone": "Asia/Karachi" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [75.99381, 39.4677199] },
+      "properties": { "timezone": "Asia/Kashgar" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [85.3239605, 27.7172453] },
+      "properties": { "timezone": "Asia/Kathmandu" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [85.3239605, 27.7172453] },
+      "properties": { "timezone": "Asia/Katmandu" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.5539801, 62.6564078999999]
+      },
+      "properties": { "timezone": "Asia/Khandyga" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [88.3628734, 22.5743545] },
+      "properties": { "timezone": "Asia/Kolkata" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [92.8932476, 56.0152833999999]
+      },
+      "properties": { "timezone": "Asia/Krasnoyarsk" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [101.6840589, 3.1319197] },
+      "properties": { "timezone": "Asia/Kuala_Lumpur" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.359503, 1.5533785] },
+      "properties": { "timezone": "Asia/Kuching" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [47.481766, 29.31166] },
+      "properties": { "timezone": "Asia/Kuwait" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [113.543873, 22.198745] },
+      "properties": { "timezone": "Asia/Macao" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [113.543873, 22.198745] },
+      "properties": { "timezone": "Asia/Macau" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [150.8127537, 59.5594397] },
+      "properties": { "timezone": "Asia/Magadan" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [119.4359281, -5.1615828] },
+      "properties": { "timezone": "Asia/Makassar" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.9842195, 14.5995124] },
+      "properties": { "timezone": "Asia/Manila" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [58.3828717, 23.5880307] },
+      "properties": { "timezone": "Asia/Muscat" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.1215704999999, 53.7595935]
+      },
+      "properties": { "timezone": "Asia/Novokuznetsk" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [82.8963831, 54.9832693] },
+      "properties": { "timezone": "Asia/Novosibirsk" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [73.3645204, 54.9913545] },
+      "properties": { "timezone": "Asia/Omsk" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [104.9282099, 11.5563738] },
+      "properties": { "timezone": "Asia/Phnom_Penh" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [109.3425039, -0.0263303] },
+      "properties": { "timezone": "Asia/Pontianak" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [125.8197642, 39.0737987] },
+      "properties": { "timezone": "Asia/Pyongyang" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [51.183884, 25.354826] },
+      "properties": { "timezone": "Asia/Qatar" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [63.5923729999999, 53.2037349]
+      },
+      "properties": { "timezone": "Asia/Qostanay" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.4822686, 44.8488313999999]
+      },
+      "properties": { "timezone": "Asia/Qyzylorda" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [96.173526, 16.840939] },
+      "properties": { "timezone": "Asia/Rangoon" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [46.6752957, 24.7135517] },
+      "properties": { "timezone": "Asia/Riyadh" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.6296638, 10.8230989] },
+      "properties": { "timezone": "Asia/Saigon" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [142.9505689, 50.6909848] },
+      "properties": { "timezone": "Asia/Sakhalin" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [66.9756694, 39.6585987] },
+      "properties": { "timezone": "Asia/Samarkand" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.9917937, 37.5518911] },
+      "properties": { "timezone": "Asia/Seoul" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.473701, 31.230416] },
+      "properties": { "timezone": "Asia/Shanghai" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.819836, 1.352083] },
+      "properties": { "timezone": "Asia/Singapore" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.728674, 67.4373069999999]
+      },
+      "properties": { "timezone": "Asia/Srednekolymsk" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.5654177, 25.0329694] },
+      "properties": { "timezone": "Asia/Taipei" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [69.2400734, 41.2994958] },
+      "properties": { "timezone": "Asia/Tashkent" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.8015167999999, 41.6938026]
+      },
+      "properties": { "timezone": "Asia/Tbilisi" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [51.3346954, 35.7218583] },
+      "properties": { "timezone": "Asia/Tehran" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.7817675999999, 32.0852999]
+      },
+      "properties": { "timezone": "Asia/Tel_Aviv" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [89.6386108, 27.471586] },
+      "properties": { "timezone": "Asia/Thimbu" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [89.6386108, 27.471586] },
+      "properties": { "timezone": "Asia/Thimphu" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.650027, 35.6764225] },
+      "properties": { "timezone": "Asia/Tokyo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [84.9480469, 56.4884295] },
+      "properties": { "timezone": "Asia/Tomsk" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [119.4359281, -5.1615828] },
+      "properties": { "timezone": "Asia/Ujung_Pandang" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.9155007, 47.9220509] },
+      "properties": { "timezone": "Asia/Ulaanbaatar" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.9155007, 47.9220509] },
+      "properties": { "timezone": "Asia/Ulan_Bator" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [87.61688, 43.8266299] },
+      "properties": { "timezone": "Asia/Urumqi" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [143.2265266, 64.5671689] },
+      "properties": { "timezone": "Asia/Ust-Nera" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [102.6331035, 17.9757058] },
+      "properties": { "timezone": "Asia/Vientiane" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [129.7422193, 62.0396912] },
+      "properties": { "timezone": "Asia/Yakutsk" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [96.173526, 16.840939] },
+      "properties": { "timezone": "Asia/Yangon" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.6454085999999, 56.8430993]
+      },
+      "properties": { "timezone": "Asia/Yekaterinburg" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [44.515209, 40.1872023] },
+      "properties": { "timezone": "Asia/Yerevan" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.91180599999999, 61.892635]
+      },
+      "properties": { "timezone": "Atlantic/Faroe" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-8.2920347, 71.031818] },
+      "properties": { "timezone": "Atlantic/Jan_Mayen" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-16.9289441, 32.6371816] },
+      "properties": { "timezone": "Atlantic/Madeira" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [149.0123679, -35.4734679]
+      },
+      "properties": { "timezone": "Australia/ACT" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.6007456, -34.9284989]
+      },
+      "properties": { "timezone": "Australia/Adelaide" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.0260341, -27.4704528]
+      },
+      "properties": { "timezone": "Australia/Brisbane" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.4608138, -31.9595859]
+      },
+      "properties": { "timezone": "Australia/Broken_Hill" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [149.1310324, -35.2801846]
+      },
+      "properties": { "timezone": "Australia/Canberra" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [143.8537837, -39.9301004]
+      },
+      "properties": { "timezone": "Australia/Currie" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [130.8444446, -12.4637333]
+      },
+      "properties": { "timezone": "Australia/Darwin" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.8835431, -31.6750185]
+      },
+      "properties": { "timezone": "Australia/Eucla" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147.3257196, -42.8826055]
+      },
+      "properties": { "timezone": "Australia/Hobart" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [159.0675466, -31.5212683]
+      },
+      "properties": { "timezone": "Australia/LHI" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [133.775136, -25.274398] },
+      "properties": { "timezone": "Australia/Lindeman" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [159.0821211, -31.5553263]
+      },
+      "properties": { "timezone": "Australia/Lord_Howe" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.9630576, -37.8136276]
+      },
+      "properties": { "timezone": "Australia/Melbourne" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [146.921099, -31.2532183] },
+      "properties": { "timezone": "Australia/NSW" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [133.775136, -25.274398] },
+      "properties": { "timezone": "Australia/North" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.8616783, -31.9513993]
+      },
+      "properties": { "timezone": "Australia/Perth" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [144.0847926, -22.575197] },
+      "properties": { "timezone": "Australia/Queensland" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.2091547, -30.0002315]
+      },
+      "properties": { "timezone": "Australia/South" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.2092955, -33.8688197]
+      },
+      "properties": { "timezone": "Australia/Sydney" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [146.8087322, -42.0409059]
+      },
+      "properties": { "timezone": "Australia/Tasmania" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [143.3906074, -36.9847807]
+      },
+      "properties": { "timezone": "Australia/Victoria" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.6283098, -27.6728168]
+      },
+      "properties": { "timezone": "Australia/West" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [133.775136, -25.274398] },
+      "properties": { "timezone": "Australia/Yancowinna" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.8119952999999, -9.0237964]
+      },
+      "properties": { "timezone": "Brazil/Acre" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-32.4268916899175, -3.84479761540531]
+      },
+      "properties": { "timezone": "Brazil/DeNoronha" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-51.92528, -14.235004] },
+      "properties": { "timezone": "Brazil/East" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-51.92528, -14.235004] },
+      "properties": { "timezone": "Brazil/West" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-64.9405185, 43.37822] },
+      "properties": { "timezone": "Canada/Atlantic" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-106.346771, 56.130366] },
+      "properties": { "timezone": "Canada/Central" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-106.346771, 56.130366] },
+      "properties": { "timezone": "Canada/Eastern" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-106.346771, 56.130366] },
+      "properties": { "timezone": "Canada/Mountain" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.2205257429409, 53.4943639180033]
+      },
+      "properties": { "timezone": "Canada/Newfoundland" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.4508639, 52.9399159]
+      },
+      "properties": { "timezone": "Canada/Saskatchewan" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-135, 64.2823274] },
+      "properties": { "timezone": "Canada/Yukon" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-71.542969, -35.675147] },
+      "properties": { "timezone": "Chile/Continental" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.3496865, -27.112723]
+      },
+      "properties": { "timezone": "Chile/EasterIsland" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-77.781167, 21.521757] },
+      "properties": { "timezone": "Cuba" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [30.802498, 26.820553] },
+      "properties": { "timezone": "Egypt" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-8.24389, 53.41291] },
+      "properties": { "timezone": "Eire" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [0.0098214, 51.4933675] },
+      "properties": { "timezone": "Etc/Greenwich" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.4611991, -33.957652] },
+      "properties": { "timezone": "Etc/UCT" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.9041389, 52.3675734] },
+      "properties": { "timezone": "Europe/Amsterdam" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [1.521801, 42.506285] },
+      "properties": { "timezone": "Europe/Andorra" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [48.0569482, 46.3586008] },
+      "properties": { "timezone": "Europe/Astrakhan" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [23.7275388, 37.9838096] },
+      "properties": { "timezone": "Europe/Athens" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.93012, 54.597285] },
+      "properties": { "timezone": "Europe/Belfast" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.46123, 44.8125449] },
+      "properties": { "timezone": "Europe/Belgrade" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.404954, 52.5200065999999]
+      },
+      "properties": { "timezone": "Europe/Berlin" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.1077477, 48.1485965] },
+      "properties": { "timezone": "Europe/Bratislava" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.3571696, 50.8476424] },
+      "properties": { "timezone": "Europe/Brussels" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [26.1025384, 44.4267674] },
+      "properties": { "timezone": "Europe/Bucharest" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.040235, 47.497912] },
+      "properties": { "timezone": "Europe/Budapest" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.6904196, 47.6969939] },
+      "properties": { "timezone": "Europe/Busingen" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [28.8638103, 47.0104529] },
+      "properties": { "timezone": "Europe/Chisinau" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.5683371, 55.6760968] },
+      "properties": { "timezone": "Europe/Copenhagen" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.2603097, 53.3498053] },
+      "properties": { "timezone": "Europe/Dublin" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.353585, 36.140751] },
+      "properties": { "timezone": "Europe/Gibraltar" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.938379, 60.1698556999999]
+      },
+      "properties": { "timezone": "Europe/Helsinki" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.548056, 54.236107] },
+      "properties": { "timezone": "Europe/Isle_of_Man" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [28.9783589, 41.0082376] },
+      "properties": { "timezone": "Europe/Istanbul" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.1357662, 49.2137711] },
+      "properties": { "timezone": "Europe/Jersey" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.4522144, 54.7104264] },
+      "properties": { "timezone": "Europe/Kaliningrad" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [30.5245025, 50.4503596] },
+      "properties": { "timezone": "Europe/Kiev" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [49.6679437, 58.6030012] },
+      "properties": { "timezone": "Europe/Kirov" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [30.5245025, 50.4503596] },
+      "properties": { "timezone": "Europe/Kyiv" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-9.1393366, 38.7222524] },
+      "properties": { "timezone": "Europe/Lisbon" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.5057515, 46.0569465] },
+      "properties": { "timezone": "Europe/Ljubljana" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.1275862, 51.5072178] },
+      "properties": { "timezone": "Europe/London" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.12958299999999, 49.815273]
+      },
+      "properties": { "timezone": "Europe/Luxembourg" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.7037902, 40.4167754] },
+      "properties": { "timezone": "Europe/Madrid" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.375416, 35.937496] },
+      "properties": { "timezone": "Europe/Malta" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.9348339, 60.0970945] },
+      "properties": { "timezone": "Europe/Mariehamn" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [27.558972, 53.9006011] },
+      "properties": { "timezone": "Europe/Minsk" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.42461579999999, 43.7384176]
+      },
+      "properties": { "timezone": "Europe/Monaco" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [37.6173, 55.755826] },
+      "properties": { "timezone": "Europe/Moscow" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.3822763999999, 35.1855659]
+      },
+      "properties": { "timezone": "Europe/Nicosia" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.7522454, 59.9138688] },
+      "properties": { "timezone": "Europe/Oslo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.3189725, 48.8766796] },
+      "properties": { "timezone": "Europe/Paris" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.2593642, 42.4304196] },
+      "properties": { "timezone": "Europe/Podgorica" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4378005, 50.0755381] },
+      "properties": { "timezone": "Europe/Prague" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [24.1056221, 56.9676941] },
+      "properties": { "timezone": "Europe/Riga" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.4822025, 41.8967068] },
+      "properties": { "timezone": "Europe/Rome" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [50.1606382, 53.203772] },
+      "properties": { "timezone": "Europe/Samara" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.457777, 43.94236] },
+      "properties": { "timezone": "Europe/San_Marino" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.4130763, 43.8562586] },
+      "properties": { "timezone": "Europe/Sarajevo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [46.0154123, 51.5461754] },
+      "properties": { "timezone": "Europe/Saratov" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [34.102417, 44.952117] },
+      "properties": { "timezone": "Europe/Simferopol" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [21.4254355, 41.9981294] },
+      "properties": { "timezone": "Europe/Skopje" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [23.3218675, 42.6977082] },
+      "properties": { "timezone": "Europe/Sofia" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.0685808, 59.3293234999999]
+      },
+      "properties": { "timezone": "Europe/Stockholm" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.7535746, 59.4369607999999]
+      },
+      "properties": { "timezone": "Europe/Tallinn" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.8186982, 41.3275459] },
+      "properties": { "timezone": "Europe/Tirane" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [29.596805, 46.848185] },
+      "properties": { "timezone": "Europe/Tiraspol" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [48.397776, 54.3186575] },
+      "properties": { "timezone": "Europe/Ulyanovsk" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [22.287883, 48.6208] },
+      "properties": { "timezone": "Europe/Uzhgorod" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.5210732, 47.1410843] },
+      "properties": { "timezone": "Europe/Vaduz" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.453389, 41.902916] },
+      "properties": { "timezone": "Europe/Vatican" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.3713095, 48.2080695999999]
+      },
+      "properties": { "timezone": "Europe/Vienna" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [25.2796514, 54.6871555] },
+      "properties": { "timezone": "Europe/Vilnius" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [44.5133034, 48.708048] },
+      "properties": { "timezone": "Europe/Volgograd" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [21.0122287, 52.2296756] },
+      "properties": { "timezone": "Europe/Warsaw" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.981919, 45.8150108] },
+      "properties": { "timezone": "Europe/Zagreb" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.1387097, 47.8392841999999]
+      },
+      "properties": { "timezone": "Europe/Zaporozhye" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.541694, 47.3768866] },
+      "properties": { "timezone": "Europe/Zurich" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-8.24389, 53.41291] },
+      "properties": { "timezone": "GB-Eire" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [0.0098214, 51.4933675] },
+      "properties": { "timezone": "Greenwich" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [114.1693611, 22.3193039] },
+      "properties": { "timezone": "Hongkong" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-19.020835, 64.963051] },
+      "properties": { "timezone": "Iceland" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [73.22068, 3.202778] },
+      "properties": { "timezone": "Indian/Maldives" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [57.552152, -20.348404] },
+      "properties": { "timezone": "Indian/Mauritius" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [53.688046, 32.427908] },
+      "properties": { "timezone": "Iran" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [34.851612, 31.046051] },
+      "properties": { "timezone": "Israel" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-77.297508, 18.109581] },
+      "properties": { "timezone": "Jamaica" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [138.252924, 36.204824] },
+      "properties": { "timezone": "Japan" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [167.4242972, 9.1898235] },
+      "properties": { "timezone": "Kwajalein" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.228331, 26.3351] },
+      "properties": { "timezone": "Libya" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.963244, 40.7794366] },
+      "properties": { "timezone": "MET" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.2837585, 30.8406338]
+      },
+      "properties": { "timezone": "Mexico/BajaNorte" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.6660725, 26.0444446]
+      },
+      "properties": { "timezone": "Mexico/BajaSur" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-102.552784, 23.634501] },
+      "properties": { "timezone": "Mexico/General" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [174.885971, -40.900557] },
+      "properties": { "timezone": "NZ" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [174.885971, -40.900557] },
+      "properties": { "timezone": "NZ-CHAT" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.1880047, 36.0672173]
+      },
+      "properties": { "timezone": "Navajo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [178.065032, -17.713371] },
+      "properties": { "timezone": "Pacific/Fiji" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [167.4242972, 9.1898235] },
+      "properties": { "timezone": "Pacific/Kwajalein" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [158.2793165, 6.95199159999999]
+      },
+      "properties": { "timezone": "Pacific/Pohnpei" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-172.104629, -13.759029] },
+      "properties": { "timezone": "Pacific/Samoa" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [138.1399232, 9.5556503] },
+      "properties": { "timezone": "Pacific/Yap" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.145136, 51.919438] },
+      "properties": { "timezone": "Poland" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.224454, 39.3998719999999]
+      },
+      "properties": { "timezone": "Portugal" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.819836, 1.352083] },
+      "properties": { "timezone": "Singapore" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [35.243322, 38.963745] },
+      "properties": { "timezone": "Turkey" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.4611991, -33.957652] },
+      "properties": { "timezone": "UCT" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-154.4930619, 63.588753] },
+      "properties": { "timezone": "US/Alaska" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-165.89470295, 54.83193995]
+      },
+      "properties": { "timezone": "US/Aleutian" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.0937311, 34.0489281]
+      },
+      "properties": { "timezone": "US/Arizona" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-95.712891, 37.09024] },
+      "properties": { "timezone": "US/Central" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.6023642999999, 40.5512165]
+      },
+      "properties": { "timezone": "US/East-Indiana" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-86.6207943, 41.2715616] },
+      "properties": { "timezone": "US/Indiana-Starke" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.6023642999999, 44.3148443]
+      },
+      "properties": { "timezone": "US/Michigan" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-95.712891, 37.09024] },
+      "properties": { "timezone": "US/Mountain" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.2501201, 47.2645452]
+      },
+      "properties": { "timezone": "US/Pacific" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-95.712891, 37.09024] },
+      "properties": { "timezone": "US/Samoa" }
+    }
+  ]
+}

@@ -1,0 +1,716 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.169239, 57.684841] },
+      "properties": {
+        "site_name": "ship_10",
+        "heading": 80.6,
+        "ec_timestamp": "2024-05-03 15:30:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [151.546863, -34.269737] },
+      "properties": {
+        "site_name": "ship_51",
+        "heading": 172,
+        "ec_timestamp": "2024-05-03 15:30:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [153.517715, -26.623837] },
+      "properties": {
+        "site_name": "ship_52",
+        "heading": 81.3,
+        "ec_timestamp": "2024-05-03 15:30:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [113.345261, -28.634842] },
+      "properties": {
+        "site_name": "ship_53",
+        "heading": 351.4,
+        "ec_timestamp": "2024-05-03 15:30:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.796761, 26.471127] },
+      "properties": {
+        "site_name": "ship_56",
+        "heading": 23.9,
+        "ec_timestamp": "2024-05-03 15:30:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.220661, 56.15435] },
+      "properties": {
+        "site_name": "ship_6",
+        "heading": 34.9,
+        "ec_timestamp": "2024-05-03 15:30:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.169341, 57.684929] },
+      "properties": {
+        "site_name": "ship_1",
+        "heading": 80.6,
+        "ec_timestamp": "2024-05-03 15:29:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [151.546863, -34.269737] },
+      "properties": {
+        "site_name": "ship_11",
+        "heading": 172,
+        "ec_timestamp": "2024-05-03 15:29:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [153.512039, -26.625019] },
+      "properties": {
+        "site_name": "ship_12",
+        "heading": 79.3,
+        "ec_timestamp": "2024-05-03 15:29:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [113.345627, -28.638256] },
+      "properties": {
+        "site_name": "ship_13",
+        "heading": 351.7,
+        "ec_timestamp": "2024-05-03 15:29:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.797501, 26.469286] },
+      "properties": {
+        "site_name": "ship_14",
+        "heading": 21.9,
+        "ec_timestamp": "2024-05-03 15:29:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.220641, 56.154381] },
+      "properties": {
+        "site_name": "ship_15",
+        "heading": 34.9,
+        "ec_timestamp": "2024-05-03 15:29:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.763353, -11.489273] },
+      "properties": {
+        "site_name": "ship_16",
+        "heading": 354.5,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.169324, 57.684834] },
+      "properties": {
+        "site_name": "ship_17",
+        "heading": 80.6,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.192066, 41.597832] },
+      "properties": {
+        "site_name": "ship_18",
+        "heading": 261,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.380572, 48.525871] },
+      "properties": {
+        "site_name": "ship_19",
+        "heading": 39.3,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.632576, 39.548721] },
+      "properties": {
+        "site_name": "ship_2",
+        "heading": 46.2,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.469529, 38.838654] },
+      "properties": {
+        "site_name": "ship_20",
+        "heading": 92.2,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.308275, 38.733841] },
+      "properties": {
+        "site_name": "ship_21",
+        "heading": 333.6,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-91.606667, 26.795] },
+      "properties": {
+        "site_name": "ship_22",
+        "heading": 0,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.400148, 50.890778] },
+      "properties": {
+        "site_name": "ship_23",
+        "heading": 192,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-66.685622, 20.401777] },
+      "properties": {
+        "site_name": "ship_24",
+        "heading": 304,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.975647, 25.780106] },
+      "properties": {
+        "site_name": "ship_25",
+        "heading": 248.7,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.86742, 41.137066] },
+      "properties": {
+        "site_name": "ship_26",
+        "heading": 312.5,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.345157, -26.097238] },
+      "properties": {
+        "site_name": "ship_27",
+        "heading": 305,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-8.396667, 43.366667] },
+      "properties": {
+        "site_name": "ship_28",
+        "heading": 0,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-88.546667, 23.743333] },
+      "properties": {
+        "site_name": "ship_29",
+        "heading": 0,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.427223, 26.160992] },
+      "properties": {
+        "site_name": "ship_3",
+        "heading": 292.1,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.765798, 40.694054] },
+      "properties": {
+        "site_name": "ship_30",
+        "heading": 223.6,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-46.308208, -23.99284] },
+      "properties": {
+        "site_name": "ship_31",
+        "heading": 96,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-117.25, 31.358333] },
+      "properties": {
+        "site_name": "ship_32",
+        "heading": 0,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.176633, 41.3562] },
+      "properties": {
+        "site_name": "ship_33",
+        "heading": 206,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.145226, 27.493576] },
+      "properties": {
+        "site_name": "ship_34",
+        "heading": 110,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-77.675, 25.835] },
+      "properties": {
+        "site_name": "ship_35",
+        "heading": 0,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.17333, 41.351292] },
+      "properties": {
+        "site_name": "ship_36",
+        "heading": 206.4,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-123.086639, 48.903011] },
+      "properties": {
+        "site_name": "ship_37",
+        "heading": 312.6,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-130.819885, 53.513542] },
+      "properties": {
+        "site_name": "ship_38",
+        "heading": 166.7,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-133.330338, 56.359673] },
+      "properties": {
+        "site_name": "ship_39",
+        "heading": 96.8,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.801451, 48.037945] },
+      "properties": {
+        "site_name": "ship_4",
+        "heading": 27.2,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-131.087082, 54.391693] },
+      "properties": {
+        "site_name": "ship_40",
+        "heading": 140.5,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.286983, 37.062382] },
+      "properties": {
+        "site_name": "ship_41",
+        "heading": 200.6,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [1.362303, 53.87362] },
+      "properties": {
+        "site_name": "ship_42",
+        "heading": 149,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-71.198333, 46.813333] },
+      "properties": {
+        "site_name": "ship_43",
+        "heading": 0,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [173.834793, 51.917561] },
+      "properties": {
+        "site_name": "ship_45",
+        "heading": 60.5,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-134.287437, 55.50665] },
+      "properties": {
+        "site_name": "ship_46",
+        "heading": 342,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.698941, 55.607513] },
+      "properties": {
+        "site_name": "ship_47",
+        "heading": 357.3,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-24.998333, 16.89] },
+      "properties": {
+        "site_name": "ship_48",
+        "heading": 0,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-71.613333, 15.241667] },
+      "properties": {
+        "site_name": "ship_49",
+        "heading": 0,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [3.238286, 54.038822] },
+      "properties": {
+        "site_name": "ship_5",
+        "heading": 189.3,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-88.866667, 24.068333] },
+      "properties": {
+        "site_name": "ship_50",
+        "heading": 0,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-80.600136, 28.409901] },
+      "properties": {
+        "site_name": "ship_54",
+        "heading": 271.3,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-134.317917, 55.47506] },
+      "properties": {
+        "site_name": "ship_55",
+        "heading": 347.5,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-85.103333, 22.323333] },
+      "properties": {
+        "site_name": "ship_57",
+        "heading": 0,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-82.843333, 23.581667] },
+      "properties": {
+        "site_name": "ship_59",
+        "heading": 0,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-126.6, 44] },
+      "properties": {
+        "site_name": "ship_60",
+        "heading": 162.3,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.818451, 57.693821] },
+      "properties": {
+        "site_name": "ship_61",
+        "heading": 268.6,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.183696, 41.288273] },
+      "properties": {
+        "site_name": "ship_62",
+        "heading": 341.1,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [151.546863, -34.269737] },
+      "properties": {
+        "site_name": "ship_63",
+        "heading": 172,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [153.506393, -26.626251] },
+      "properties": {
+        "site_name": "ship_64",
+        "heading": 78.8,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [113.34594, -28.640911] },
+      "properties": {
+        "site_name": "ship_65",
+        "heading": 350.6,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-113.39596, 25.425188] },
+      "properties": {
+        "site_name": "ship_66",
+        "heading": 320,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-85.201118, 23.644304] },
+      "properties": {
+        "site_name": "ship_67",
+        "heading": 30.3,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.798141, 26.467169] },
+      "properties": {
+        "site_name": "ship_68",
+        "heading": 19.8,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.43, 50.905] },
+      "properties": {
+        "site_name": "ship_69",
+        "heading": 116.9,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [130.70166, 31.357401] },
+      "properties": {
+        "site_name": "ship_7",
+        "heading": 159.9,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.220614, 56.154343] },
+      "properties": {
+        "site_name": "ship_71",
+        "heading": 34.9,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-55.073333, 45.415] },
+      "properties": {
+        "site_name": "ship_72",
+        "heading": 0,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [3.206486, 51.340233] },
+      "properties": {
+        "site_name": "ship_73",
+        "heading": 133,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.067223, 33.378342] },
+      "properties": {
+        "site_name": "ship_74",
+        "heading": 340,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [21.9, 36.349998] },
+      "properties": {
+        "site_name": "ship_75",
+        "heading": 108.1,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-149.70703, 58.80845] },
+      "properties": {
+        "site_name": "ship_76",
+        "heading": 92,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-13.858193, 28.49386] },
+      "properties": {
+        "site_name": "ship_77",
+        "heading": 174.6,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [155.647812, -7.529639] },
+      "properties": {
+        "site_name": "ship_78",
+        "heading": 288.8,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [25.770887, 32.307873] },
+      "properties": {
+        "site_name": "ship_79",
+        "heading": 104.4,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [97.821999, 5.328769] },
+      "properties": {
+        "site_name": "ship_8",
+        "heading": 305.5,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-8.438333, 54.628333] },
+      "properties": {
+        "site_name": "ship_80",
+        "heading": 0,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [3.852445, 52.665813] },
+      "properties": {
+        "site_name": "ship_9",
+        "heading": 59.3,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.917314, 44.413544] },
+      "properties": {
+        "site_name": "ship_70",
+        "heading": 179.6,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-136.338486, 57.019333] },
+      "properties": {
+        "site_name": "ship_44",
+        "heading": 109.1,
+        "ec_timestamp": "2024-05-03 15:28:00.000 +0530"
+      }
+    }
+  ]
+}
