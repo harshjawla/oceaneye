@@ -1,8 +1,8 @@
-# Stealth Hawk
+# Ocean's Eye
 
 Deployment link - https://stealthhawk.vercel.app/
 
-Stealth Hawk is a cutting-edge mapping tool designed for military and intelligence operations, built on the powerful Mapbox platform. It provides real-time visualization of global time zones, enabling users to monitor critical regions across the world with precision timing.
+Ocean's Eye is a cutting-edge mapping tool designed for military and intelligence operations, built on the powerful Mapbox platform. It provides real-time visualization of global time zones, enabling users to monitor critical regions across the world with precision timing.
 
 ---
 ## Requirements
