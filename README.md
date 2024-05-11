@@ -1,6 +1,6 @@
 # Ocean's Eye
 
-Deployment link - https://stealthhawk.vercel.app/
+Deployment link - https://oceaneye-beta.vercel.app/
 
 Ocean's Eye is a cutting-edge mapping tool designed for military and intelligence operations, built on the powerful Mapbox platform. It provides real-time visualization of global time zones, enabling users to monitor critical regions across the world with precision timing.
 
@@ -41,7 +41,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/harshjawla/stealthhawk
+    $ git clone https://github.com/harshjawla/oceaneye
     $ cd PROJECT_TITLE
     $ npm install
 
